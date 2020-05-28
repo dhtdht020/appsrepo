@@ -5,5 +5,5 @@
   "testapp4": ["Emulators", "wwgcns", "", ""],
   "testapp5": ["Utilities", "wgs", "", ""],
   "testapp6": ["Utilities", "wgs", "", ""],
-  "testapp7": ["Utilities", "wwwwgcs", "", ""],
+  "testapp7": ["Utilities", "wwwwgcs", "", ""]
 }
